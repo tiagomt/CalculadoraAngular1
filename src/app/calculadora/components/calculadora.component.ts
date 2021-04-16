@@ -125,7 +125,10 @@ export class CalculadoraComponent implements OnInit {
       this.operacao)
   }
 
-
+  /**
+   * Retorna o valor a ser exibido na tela da calculadora
+   * 
+   */
   get display(): string { //get cria um atributo chamado display
 
     if (this.resultado !== null) {
