@@ -2,6 +2,8 @@
 
 Projeto desenvolvido utilizando o [Angular CLI](https://github.com/angular/angular-cli) versão 11.2.2.
 
+![CalculadoraAngular](https://github.com/tiagomt/CalculadoraAngular1/blob/main/docs/imgs/CalculadoraAngular.png)
+
 ## Development server
 
 Rode `ng serve` na raiz do projeto para rodar no servidor de desenvolvimento. Navegue para `http://localhost:4200/` para acessar a aplicação.
